@@ -2,7 +2,7 @@
 
 A Machine Learning web app that predicts wine quality using **XGBoost** — trained on 6,500+ red and white wines from the UCI Wine Quality dataset.
 
-🔗 **Live Demo:** *(Add your Streamlit Cloud URL here after deployment)*
+🔗 **Live Demo:** [Click here to try the app](https://wine-quality-prediction-f4knowahxunzmfosfk48tj.streamlit.app)
 
 ---
 
